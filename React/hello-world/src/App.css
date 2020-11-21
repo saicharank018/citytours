@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.hero{
+ background-color:#cccccc;
+ height:100vh;
+ }
+.mycard{
+  margin:18%;
+  justify-content:center;
+  }
+.myauth{
+ padding:14px 16px;
+ margin:20px 16px;
+ justify-content:center;
+ }
+label{
+ font-size:15px;
+ font-family: 'PT Serif', serif;
+ }
+.account{ 
+text-align:center;
+color:red !important;
+font-size:22px;
+}
+.logo{
+width:65px;
+}
+.citycard{
+  justify-content: center ;
+}
+.city-title{
+ font-family: 'PT Serif', serif;
+ font-size:12px;
+ text-align: center;
+ color:black;
+ text-decoration: none;
+}
+Link{
+  text-decoration:none ;
+}
+ 
+ 
+ 
