@@ -2,6 +2,14 @@
 
 this website shows available cities to tour and allows the user to book a tour
 
+# Features
+
+- User Login Authentication 
+
+- User Authoratization
+
+- Cart
+
 # Sources
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
